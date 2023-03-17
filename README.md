@@ -13,6 +13,9 @@ Because why not? I needed to practice using LMC for my A-level and I figured thi
 </details>
 
 <details>
-<summary>What instructions do we use?</summary>
-![instructions](https://www.canyoucompute.co.uk/uploads/1/4/2/4/14249012/3752289_1_orig.png)
+<summary>Anything I should know?</summary>
+ Instruction set: https://peterhigginson.co.uk/lmc/help.html <br>
+ Simulator: https://peterhigginson.co.uk/lmc/
+  
+ I'd put it here, but github stopped rendering my markdown so there is no point.
 </details>
