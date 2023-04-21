@@ -1,4 +1,5 @@
-// This program will take two numbers and output the number 1 if they are the same or 0 if they are not          
+// This program will take two numbers and output the number 1 if they are the same or 0 if they are not       
+// Covered by MIT license- see LICENSE for details
              INP
              STA num1
              INP
