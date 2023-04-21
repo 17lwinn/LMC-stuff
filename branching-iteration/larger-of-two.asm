@@ -1,4 +1,5 @@
 // This script takes two numbers and outputs the largest between them
+// Covered by MIT license- see LICENSE for details
              INP
              STA NUM1
              INP
